@@ -64,7 +64,7 @@
           "min_island_area": 10.0,
           "min_thickness": 0.25,
           "pad_connection": 1,
-          "remove_islands": 0,
+          "remove_islands": 1,
           "thermal_relief_gap": 0.5,
           "thermal_relief_spoke_width": 0.5
         }
@@ -563,7 +563,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "/home/abinav/Downloads/MOTOR/fabrication/",
+      "plot": "/home/abinav/Desktop/Projects/navneeth_motorpcb/MOTOR/Fabrication_files/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
@@ -706,7 +706,7 @@
         "uuid": "83035140-5ccf-43f6-9e5d-0195b96fca27"
       }
     ],
-    "used_designators": "J3-4",
+    "used_designators": "H1-4,J3-4",
     "variants": []
   },
   "sheets": [
